@@ -1,0 +1,128 @@
+body   {
+    font-family: Arial, sans-serif;
+    margin: 35;
+    padding: 0;
+    background-color:#ffffff;
+    background-image: url(https://art.ngfiles.com/images/2649000/2649301_kraikein_green-hill.png?f1658868147);
+    background-repeat: no-repeat;
+}
+
+nav {
+
+    font-family:'Courier New', Courier, monospace;
+    color:lightseagreen;
+    font-size: 10px;
+}
+    
+    nav ul {
+        list-style-type: none;
+        margin: -1px;
+        padding: 80px;
+        text-align:center;
+    }
+    
+    nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: -80px;
+    }
+    
+    nav ul li a {
+    color: #020202;
+    text-decoration: none;
+    }
+
+nav2 {
+    font-family:fantasy;
+    font-size: 18px;
+}
+
+    nav2 ul {
+        background-color: aqua;
+        list-style-type: none;
+        margin: -5px;
+        padding: -1px;
+        text-align:center;
+        margin-bottom: 50px;
+        margin-top: -45px;
+        margin-right: -8px;
+    }
+
+    nav2 ul li  {
+        display: inline-block;
+        margin-right: 90px;
+    }
+
+    nav2 ul li a {
+        color:rgb(4, 0, 255);
+        text-decoration: none;
+    }
+
+h2 {
+        font-family:fantasy;
+        font-size: 30px;
+        margin-top: 23px;
+        -webkit-text-stroke: 0.50px rgb(255, 255, 255);
+}
+
+header {
+    margin-top: -50px;
+    margin-left: -7.90px;
+}
+
+.GAME-PLAYARG {
+    margin-top: 23px;
+    margin-bottom: 40PX;
+    max-width: 100%;
+    height: auto; 
+}
+
+
+.box2 {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(109, 109, 245);
+    width: 1000px;
+    height: 400px;
+    margin-left: 100px;
+}
+    .subtitulo1 {
+    margin-left: 90px;
+    margin-top: 55px;
+    font-size: 36.9px;
+    font-family: fantasy;
+    }
+
+    .Marcas {
+    width: 630px;
+    height: 300px;
+    margin-top: -36px;
+    margin-left: 50px;
+    }
+
+    .sonic {
+    width: 236px;
+    height: 360px;
+    margin-top: -338px;
+    margin-left: 699px;
+    }
+
+
+section {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: 8px;
+    color: #000000;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+/* Estilos para el pie de pagina (footer) */
+footer {
+    background-color:black;
+    margin: -8px;
+    margin-top: 10px;
+    padding:35px;
+    height: 50px;
+    text-align: center;
+}

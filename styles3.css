@@ -1,0 +1,107 @@
+body   {
+    font-family: Arial, sans-serif;
+    margin: 35;
+    padding: 0;
+}
+
+nav {
+
+    font-family:'Courier New', Courier, monospace;
+    color:lightseagreen;
+    font-size: 10px;
+}
+    
+    nav ul {
+        list-style-type: none;
+        margin: -1px;
+        padding: 80px;
+        text-align:center;
+    }
+    
+    nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: -80px;
+    }
+    
+    nav ul li a {
+    color: #020202;
+    text-decoration: none;
+    }
+
+nav2 {
+    font-family:fantasy;
+    font-size: 18px;
+}
+
+    nav2 ul {
+        background-color: aqua;
+        list-style-type: none;
+        margin: -5px;
+        padding: -1px;
+        text-align:center;
+        margin-bottom: 50px;
+        margin-top: -45px;
+        margin-right: -8px;
+    }
+
+    nav2 ul li  {
+        display: inline-block;
+        margin-right: 90px;
+    }
+
+    nav2 ul li a {
+        color:rgb(4, 0, 255);
+        text-decoration: none;
+    }
+
+header {
+        margin-top: -50px;
+        margin-left: -7.90px;
+}
+    
+.GAME-PLAYARG {
+        margin-top: 23px;
+        margin-bottom: 40PX;
+}
+
+h1 {
+    font-family: fantasy;
+    margin-left: 47px;
+    font-size: 40px;
+}
+
+section {
+    font-size: 23px;
+    margin-left: 49px;
+    margin-top: 49px;
+}
+
+.pikachu {
+        width: 286px;
+        height: 304px;
+        margin-top: -282px;
+        margin-left: 795px;
+}
+
+footer {
+    background-color:black;
+    margin: -8px;
+    margin-top: 49px;
+    padding:35px;
+    height: 50px;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    /* Estilos para pantallas de hasta 768px de ancho */
+}
+  
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Estilos para pantallas entre 768px y 1024px de ancho */
+}
+  
+  @media screen and (min-width: 1024px) {
+    /* Estilos para pantallas de 1024px de ancho o más */
+}
